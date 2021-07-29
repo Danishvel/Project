@@ -1,0 +1,17 @@
+.heading{
+    font-size: 25;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px goldenrod;
+}
+.heading_div{
+    box-shadow: 5px 5px 5px goldenrod;
+    background-color: honeydew;
+    color: darkturquoise;
+    border-radius: 15px;
+    float: none;
+    padding: 10px;
+}
+.heading_div2{
+    font-size: 18px;
+}
